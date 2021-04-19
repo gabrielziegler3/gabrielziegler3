@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://i.gifer.com/44zG.gif">
+  <img src="audio-signal.gif">
 </div>
 
 ### Hi 👋
