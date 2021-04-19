@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src="https://i.gifer.com/44zG.gif">
+</div>
+
 ### Hi 👋
 
 I am a data scientist currently working with audio analytics at Itaú, the biggest bank in Latin America.
