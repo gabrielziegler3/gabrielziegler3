@@ -4,8 +4,8 @@
 
 ### Hi 👋
 
-I am a data scientist currently working with audio analytics at Itaú, the biggest bank in Latin America.
-I am very interested in Machine Learning, Software Engineering and Linux.
+I am a Machine Learning Engineer living and studying in Eindhoven where I do my master's at TU/e.
+I am very interested in Machine Learning, MLOPs, Cloud, Software Engineering and Linux.
 Feel free to contact me. 
 
 <!--
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielziegler3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 I’m looking to collaborate on growing Machine Learning and Linux customization projects
-- 🔭 I’m currently working on MRI reconstruction and Audio Processing
+- 💻 I’m looking for opportunities to work with ML model deployment and designing systems.
+- 🔭 I’m currently working on Speech Processing
 - 📫 How to reach me: gabrielziegler3@gmail.com
 
 <p>
