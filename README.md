@@ -6,7 +6,7 @@ I am interested in Data Systems, Machine Learning, MLOPs, Cloud, Software Engine
 <!-- [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielziegler3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
-  <img src="./climbing_dna.gif" alt="animated" />
+  <img src="./80scar.gif" alt="animated" />
 </p>
 
 - 💻 Open to discuss data and ML systems
