@@ -1,7 +1,7 @@
 ### Hi 👋
 
-I am a Machine Learning Engineer living and studying in Helsinki, Finland 🇫🇮.
-I am interested in Data Systems, Machine Learning, MLOPs, Cloud, Software Engineering and Linux.
+I am a Machine Learning Engineer living and studying in Helsinki, Finland 🇫🇮.   
+I am interested in Data Systems, Machine Learning, MLOps, Cloud, Software Engineering and Linux.
 
 <!-- [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielziegler3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
